@@ -1,0 +1,10 @@
+DVDPlayerTest
+.deps
+*.o
+*.a
+*.so*
+*.swp
+old
+save
+*.Z
+gmon.out
